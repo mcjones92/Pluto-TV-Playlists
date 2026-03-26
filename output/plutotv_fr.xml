@@ -2796,6 +2796,11 @@
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260327012000 +0000" stop="20260327031100 +0000">
+        <title>Y'a que la vérité qui compte: Épisode 22</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6130d9c712c2b000070abb50" start="20260326203000 +0000" stop="20260326205400 +0000">
         <title>Yu-Gi-Oh! FR: YUGI CONTRE BAKURA– 3ème PARTIE</title>
         <desc>Yugi est sur le point de remporter le duel mais Marek va intervenir et placer Yugi devant un cruel dilemme.</desc>
@@ -11835,6 +11840,11 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Une nuit explosive durant laquelle un vétéran chevronné de la police de Los Angeles emmène un jeune bleu en patrouille et lui montre la brutale réalité de leur métier…</desc>
         <icon src="https://images.pluto.tv/series/67c1e05e114d3fc6baba6c54/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60c3472a51a2050008dad272" start="20260327083905 +0000" stop="20260327101819 +0000">
+        <title>The Good Neighbor</title>
+        <desc>Nourrissant des sentiments négatifs à l'égard de leur voisin acariâtre et ermite énigmatique, Harold Grainey, Ethan et Sean, deux meilleurs amis technophiles qui s'ennuient, décident de lui jouer un tour.</desc>
+        <icon src="https://images.pluto.tv/series/66c596192cb3a000136afcdf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62f3e0522443200008c567d7" start="20260327033559 +0000" stop="20260327043359 +0000">
         <title>Accusé: L'histoire de Sophie</title>
         <desc>Après un repas arrosé en famille, Jérémy et son cousin décident d’aller prendre un dernier verre. Jérémy a juré à sa mère qu’il ne boirait pas. C’est un conducteur responsable. Pourtant, il perd le contrôle de son véhicule, et meurt sur le coup.</desc>
@@ -16221,6 +16231,11 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Un célèbre faussaire accepte un marché avec la mafia : voler un Monet contre une remise de peine. Pour ce coup risqué, il réunit une équipe inattendue : son père et son fils.</desc>
         <icon src="https://images.pluto.tv/series/68ad5036b76cf0ad37f781de/tile_1756188728812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260327123233 +0000" stop="20260327141032 +0000">
+        <title>Manipulation : la voisine d'à côté</title>
+        <desc>Alors que Doug a une liaison avec Lena, la jeune femme qui a loué la maison voisine de la sienne pour l'été, la mort suspecte du mari de cette dernière révèle l'existence d'une assurance vie conséquente.</desc>
+        <icon src="https://images.pluto.tv/series/693983e80c94b0607884271f/tile_1765379086411.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260327072050 +0000" stop="20260327094150 +0000">
         <title>Les aiguilleurs</title>
         <desc>Nourris de caféine et de machisme, une rivalité naît entre Nick et Russell, deux contrôleurs aériens à l’esprit de compétition affûté, et où le gagnant pourrait bien avoir tout à perdre.</desc>
@@ -16989,6 +17004,11 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <title>From Prada to Nada</title>
         <desc>À la mort de leur père, deux sœurs jusque-là très gâtées doivent quitter les beaux quartiers pour aller vivre chez leur tante, dans un quartier latino de Los Angeles.</desc>
         <icon src="https://images.pluto.tv/series/61f39c92dae983001acac4d9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b2d976a934282e92d71c" start="20260327124915 +0000" stop="20260327145415 +0000">
+        <title>La valse des pantins</title>
+        <desc>Un comique méconnu, pour se faire reconnaitre, enlève le présentateur d'un show télévisé et n'accepte de le libérer qu'à la condition de participer à son spectacle.</desc>
+        <icon src="https://images.pluto.tv/series/6062dc3aa224c9001bb8295c/tile_1768349881700.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6823648580b2665220d9e69a" start="20260327080019 +0000" stop="20260327083019 +0000">
         <title>Ciné 666 by Pluto TV</title>
@@ -21456,6 +21476,11 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Nick est un homme comblé : ce soir, il dîne avec Jill Goddard, la plus sexy des actrices, grâce à un concours en ligne. Mais la star annule. Dans la soirée, un homme mystérieux contacte Nick et lui propose d’espionner son idole via son ordinateur…</desc>
         <icon src="https://images.pluto.tv/series/61011648e4fa1a0014b8a158/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60b4d6c806ad2a00073b3108" start="20260327163113 +0000" stop="20260327175413 +0000">
+        <title>La nuit de tous les mystères</title>
+        <desc>Pour organiser une soirée à frissons, le couple milliardaire Loren invitent 5 personnes dans un vieux manoir qu’ils prétendent hanté et dans lequel 7 personnes seraient déjà mortes dans...</desc>
+        <icon src="https://images.pluto.tv/series/6103b146df28d900138421b4/tile_1768351769846.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60c34592c911890007f29a73" start="20260327110859 +0000" stop="20260327124659 +0000">
         <title>Mind Blown : menace psychique</title>
         <desc>Les télékinétiques utilisent leurs pouvoirs psychiques pour maîtriser les éléments. Capables de provoquer ou d'empêcher des catastrophes naturelles, ils rejoignent une structure top secrète du gouvernement qui mène des expériences sur leurs pouvoirs.</desc>
@@ -21781,6 +21806,11 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Deux des scénaristes déjantés de « Scary Movie » jettent ici leur esprit parodique sur le plus imposant des genres : les films à franchise hollywoodiens à gros budgets remplis d’effets spéciaux.</desc>
         <icon src="https://images.pluto.tv/series/606d73cca224c9001bb94790/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="67b4b2d976a934282e92d71c" start="20260327163315 +0000" stop="20260327181401 +0000">
+        <title>Clerks, Employés Modèles</title>
+        <desc>Le légendaire film indépendant qui a lancé Kevin Smith et qui a séduit le public par son énergie brute, sa comédie outrageuse et sa bande-son branchée. Clerks : Les Employés modèles voit les débuts des icônes Jay et Silent Bob sur un ton acéré.</desc>
+        <icon src="https://images.pluto.tv/series/660a735d506ccf001335d143/tile_1768352042803.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6823648580b2665220d9e69a" start="20260327120019 +0000" stop="20260327123019 +0000">
         <title>Ciné 666 by Pluto TV</title>
         <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
@@ -22078,6 +22108,11 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
     </programme>
     <programme channel="612e044c970e6f00083bcf3b" start="20260327143400 +0000" stop="20260327163800 +0000">
         <title>Y'a que la vérité qui compte: Episode 31</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260327163800 +0000" stop="20260327181300 +0000">
+        <title>Y'a que la vérité qui compte: Episode 90</title>
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
